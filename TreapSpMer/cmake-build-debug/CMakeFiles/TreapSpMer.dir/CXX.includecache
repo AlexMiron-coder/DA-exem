@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aleksey/MAI/DA/exam/TreapSpMer/Treap.hpp
+
+/home/aleksey/MAI/DA/exam/TreapSpMer/main.cpp
+iostream
+-
+Treap.hpp
+/home/aleksey/MAI/DA/exam/TreapSpMer/Treap.hpp
+
